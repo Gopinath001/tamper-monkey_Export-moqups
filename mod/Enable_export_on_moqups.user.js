@@ -6,6 +6,7 @@
 // @author       BluePie (aka) Gopinath
 // @run-at       document-end
 // @match        https://app.moqups.com/*
+// @require      https://code.jquery.com/jquery-3.3.1.min.js
 // @grant        none
 // ==/UserScript==
 
